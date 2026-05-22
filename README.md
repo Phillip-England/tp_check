@@ -26,7 +26,7 @@ Worked time is the sum of the employee's `Regular` rows inside each isolated shi
 Create a `skip.txt` file in the project directory to exclude employees from analysis and PDF reports. Add one exact employee name per line:
 
 ```text
-Quintanilla, Zoila
+Saget, Bob
 ```
 
 Blank lines are ignored.
